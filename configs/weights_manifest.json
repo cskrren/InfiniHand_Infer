@@ -1,0 +1,12 @@
+{
+  "sha256": "1ce8c8846537e984e3be1faa681347079a2d3867abf604bb4c6cd80527c7e2a4",
+  "bytes": 5588232558,
+  "format": "plain tensor state_dict",
+  "tensors": 1912,
+  "camera_tensors": 69,
+  "non_camera_tensors_unchanged": 1843,
+  "all_tensors_exact": true,
+  "camera_source_sha256": "75ecffca2771b98b0278662b0d63b93abe91828afe0cf4746972c8fda950c378",
+  "base_source_sha256": "4abfc1239e9cbb3df34ade516c29ef8650678ed024f91dc4e062ea7173ef244a",
+  "training_metadata_present": false
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.so
+*.egg-info/
+build/
+dist/
+.venv/
+weights/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.npz
+.env

@@ -1,0 +1,42 @@
+{
+  "sam3": {
+    "frames": 81,
+    "mask_threshold": 0.9,
+    "keyframes": [
+      0,
+      20,
+      40,
+      60,
+      80
+    ],
+    "world_vertices_shape": [
+      81,
+      2,
+      778,
+      3
+    ],
+    "valid_hands": 58,
+    "finite": true,
+    "first_camera_identity": true
+  },
+  "head": {
+    "frames": 81,
+    "mask_threshold": 0.9,
+    "keyframes": [
+      0,
+      20,
+      40,
+      60,
+      80
+    ],
+    "world_vertices_shape": [
+      81,
+      2,
+      778,
+      3
+    ],
+    "valid_hands": 58,
+    "finite": true,
+    "first_camera_identity": true
+  }
+}
